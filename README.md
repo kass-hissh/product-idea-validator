@@ -48,6 +48,12 @@ The product idea is evaluated across:
 ##semi_structured_results.md
 ##decision_ready_results.md
 
+## Product Context
+
+Target User: MBA aspirants in India  
+Problem: Lack of structured, personalized interview preparation  
+Goal: Improve confidence, clarity, and real-world answers  
+
 ## Key Learnings
 - Structure improves AI usefulness
 - Constraints reduce hallucinations
