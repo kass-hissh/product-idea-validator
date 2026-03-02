@@ -32,20 +32,21 @@ The product idea is evaluated across:
 - Final decision-grade prompt
 
 ## Example Application
-├── prompts/
-│   ├── unstructured.md
-│   ├── semi_structured.md
-│   └── decision_ready.md
-│
-├── models/
-│   ├── chatgpt.md
-│   ├── perplexity.md
-│   └── grok.md
-│
-├── comparisons/
-│   ├── unstructured_results.md
-│   ├── semi_structured_results.md
-│   └── decision_ready_results.md
+── prompts
+unstructured.md
+semi_structured.md
+decision_ready.md
+
+── models
+chatgpt.md
+perplexity.md
+grok.md
+claude
+
+── comparisons
+unstructured_results.md
+semi_structured_results.md
+decision_ready_results.md
 
 ## Key Learnings
 - Structure improves AI usefulness
