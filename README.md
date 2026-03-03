@@ -31,13 +31,6 @@ The product idea is evaluated across:
 - Semi-structured prompt
 - Final decision-grade prompt
 
-## Example Application
-── prompts
-##unstructured.md
-##semi_structured.md
-##decision_ready.md
-
-
 ## Product Context
 
 Target User: MBA aspirants in India  
