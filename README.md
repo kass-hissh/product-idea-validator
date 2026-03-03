@@ -31,6 +31,11 @@ The product idea is evaluated across:
 - Semi-structured prompt
 - Final decision-grade prompt
 
+## Example Application
+The framework was tested on a real product concept to evaluate its decision quality.
+
+
+
 ## Product Context
 
 Target User: MBA aspirants in India  
