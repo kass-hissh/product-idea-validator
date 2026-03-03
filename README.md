@@ -37,16 +37,6 @@ The product idea is evaluated across:
 ##semi_structured.md
 ##decision_ready.md
 
-── models
-##chatgpt.md
-##perplexity.md
-##grok.md
-##claude
-
-── comparisons
-##unstructured_results.md
-##semi_structured_results.md
-##decision_ready_results.md
 
 ## Product Context
 
